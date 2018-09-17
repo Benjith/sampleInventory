@@ -8,10 +8,10 @@ import { RouterModule } from '@angular/router';
 import { SigninComponent } from './mainhome/signin/signin.component';
 import { SignupComponent } from './mainhome/signup/signup.component';
 import { HomeComponent } from './mainhome/home/home.component';
-import { DashboardComponent } from './poloAcc/dashboard/dashboard.component';
+import { DashboardComponent } from './PolosysWebERP/dashboard/dashboard.component';
 import {FormsModule} from '@angular/forms'
 import {HttpModule} from '@angular/http';
-import { ProductgroupComponent } from '../app/poloAcc/Inventory/Masters/productgroup/productgroup.component'
+import { ProductgroupComponent } from '../app/PolosysWebERP/Inventory/Masters/productgroup/productgroup.component'
 
 @NgModule({
   declarations: [

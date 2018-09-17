@@ -4,7 +4,7 @@ import { Routes, RouterModule } from '@angular/router';
 import { SigninComponent } from './mainhome/signin/signin.component';
 import { SignupComponent } from './mainhome/signup/signup.component';
 import { HomeComponent } from './mainhome/home/home.component';
-import { DashboardComponent } from './poloAcc/dashboard/dashboard.component';
+import { DashboardComponent } from './PolosysWebERP/dashboard/dashboard.component';
 
 
 
